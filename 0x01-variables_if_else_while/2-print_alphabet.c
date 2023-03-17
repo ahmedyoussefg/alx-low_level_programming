@@ -15,5 +15,6 @@ int main(void)
 	{
 		printf("%c", alph[i]);
 	}
+	printf("\n");
 	return (0);
 }
