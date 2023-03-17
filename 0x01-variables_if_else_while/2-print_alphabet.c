@@ -10,9 +10,10 @@ int main(void)
 {
 	char alph[] = "abcdefghijklmnopqrstuvwxyz";
 	int i = 0;
+
 	for (; i < 26; i++)
 	{
-		printf("%c\n", alph[i]);
+		printf("%c", alph[i]);
 	}
 	return (0);
 }
