@@ -8,7 +8,7 @@
  *
  */
 
-int main()
+int main(void)
 {
 	char alph[] = "abcdefghijklmnopqrstuvwxyz";
 	char alph_c[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
